@@ -20,4 +20,4 @@ As a beginner in Data Science, I am currently looking to develop my skills in th
 ## Projetos:
 O que fiz até agora:
 
-* [Análise de dados no AirBnb](https://bit.ly/3hugJZo)
+* [Análise de dados no AirBnb](https://github.com/danteacosta/data_science/blob/master/Analisando_dados_do_AirBnb(Buenos_Aires).ipynb)
