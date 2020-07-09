@@ -22,3 +22,4 @@ O que fiz até agora:
 
 * [Análise de dados no AirBnb](https://github.com/danteacosta/data_science/blob/master/Analisando_dados_do_AirBnb(Buenos_Aires).ipynb)
 * [Análise da violência no RJ](https://github.com/danteacosta/data_science/blob/master/An%C3%A1lise_da_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
+* [Panorama do Covid-19](https://github.com/danteacosta/data_science/blob/master/An%C3%A1lise_do_COVID_19_no_Brasil_e_no_Mundo.ipynb)
